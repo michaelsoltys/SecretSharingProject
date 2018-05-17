@@ -1,6 +1,9 @@
 # SecretSharingProject
 Project to implement a secret sharing application.<br/>
 <br/>
+
+As of May 17, 2018, the development branch is the most developed
+
 ## To-Do:
 - [X] Implement Legrangian Polynomial Interpolation
 - [X] Update Polynomial Interpolation to Neville's Method, to allow for incremental construction of data
